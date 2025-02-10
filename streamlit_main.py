@@ -1,4 +1,6 @@
+pip install tensorflow==2.16.1
 # Importing Libraries
+
 import numpy as np 
 import tensorflow as tf 
 from tensorflow.keras.datasets import imdb 
