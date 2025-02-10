@@ -1,4 +1,3 @@
-pip install tensorflow
 # Importing Libraries
 
 import numpy as np 
