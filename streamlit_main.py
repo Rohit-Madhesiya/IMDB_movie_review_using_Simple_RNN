@@ -1,4 +1,4 @@
-pip install tensorflow==2.16.1
+pip install tensorflow
 # Importing Libraries
 
 import numpy as np 
